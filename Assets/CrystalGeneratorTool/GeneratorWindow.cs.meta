@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bc1a59082f6cb5e4597e469c4cf73e1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - crystalMat: {fileID: 2100000, guid: 92b25f993de703948b0e52ed897b599b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
